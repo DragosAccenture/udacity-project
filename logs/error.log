@@ -1,0 +1,1 @@
+{"duration":1034383,"error":"Claude Code process exited with code 1","level":"error","message":"Code review failed","owner":"octocat","prNumber":1,"repo":"Hello-World","service":"code-review-system","status":"failed","timestamp":"2026-11-03 09:19:13"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"refactoring-suggester.js","sourceRoot":"","sources":["../../src/agents/refactoring-suggester.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,4BAA4B,EAAE,MAAM,qBAAqB,CAAC;AAEnE;;GAEG;AACH,MAAM,CAAC,MAAM,oBAAoB,GAAoB;IACnD,WAAW,EACT,0QAA0Q;IAE5Q,MAAM,EAAE,4BAA4B;IAEpC,KAAK,EAAE,SAAS;IAEhB,KAAK,EAAE,CAAC,MAAM,EAAE,MAAM,EAAE,MAAM,CAAC;CAChC,CAAC"}
